@@ -1,11 +1,11 @@
 # Site settings
 author: Nash Brancic
-title: 
+title: Flatiron Part-Time Software Engineering Program
 header-img: img/home-bg.png
 email: nashfft@gmail.com
 copyright_name: Nash Brancic
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Day1
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Berlinta
